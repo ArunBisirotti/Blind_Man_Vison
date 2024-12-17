@@ -31,3 +31,5 @@ Ensure the following are installed on your system:
 To install dependencies, run:
 ```bash
 pip install torch torchvision torchaudio opencv-python pyttsx3
+
+NOTE: Install yolov5 manually.
